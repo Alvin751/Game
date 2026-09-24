@@ -3,3 +3,7 @@
 #You could use space bar to jump or maybe arrow keys.
 #Idk who the character would be or the theme of the game yet, probably space related.
 #Also what should the game sprites use: bitmap or vector.
+
+import tkinter as tk
+root = tk.Tk()
+root.mainloop()
